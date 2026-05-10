@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: 
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Game/Materials/Level0.unity
+    path: Assets/Level0.unity
     guid: 3a0f94ecd5a01334696b6c45c99de22e
   m_configObjects: {}
